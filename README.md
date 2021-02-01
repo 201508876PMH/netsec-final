@@ -1,5 +1,5 @@
 # Introduction
-The objective of this project is to perform and document the results of a prelimi-nary security analysis of a mobile application.  The application should have a sensitiverole impacting user privacy to motivate the security analysis. By sensitive role, it meansthat the application should handle user data of some sensitive nature (financial infor-mation of any kind, health records, location data, passwords and other authenticationinformation, etc).
+The objective of this project is to perform and document the results of a preliminary security analysis of a mobile application.  The application should have a sensitiverole impacting user privacy to motivate the security analysis. By sensitive role, it meansthat the application should handle user data of some sensitive nature (financial infor-mation of any kind, health records, location data, passwords and other authenticationinformation, etc).
 
 # Method
 Using the techniques and concepts you have learned in class, you should analyzethe application in four different aspects:
